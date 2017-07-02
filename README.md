@@ -15,6 +15,6 @@ The .script folder has 1 thousand (1000) programs, divided into sections.
 	Video - All sort of Video and Video Managers Software.
 	Wine Related - Wine and wine related install scripts.
 
-		- Follow us at GitHub -
+		- Follow us at GitHub - https://github.com/Kr0n-Shard/
 
 	Revision README.MD on Sun. Jul. 2nd, 2017
